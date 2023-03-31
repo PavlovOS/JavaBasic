@@ -1,4 +1,3 @@
-import java.util.OptionalInt;
 import java.util.Random;
 
 public class TaskFourteen {
